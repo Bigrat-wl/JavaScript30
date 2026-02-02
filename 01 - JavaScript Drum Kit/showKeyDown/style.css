@@ -1,0 +1,23 @@
+main {
+  width: 100%;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blanchedalmond;
+}
+
+.showKey {
+  font-size: 150px;
+  background-color: #333;
+  width: 250px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.keyDisplay {
+  color: #fff;
+}
